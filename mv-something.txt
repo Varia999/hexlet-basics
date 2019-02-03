@@ -1,1 +1,1 @@
-\n something 2
+forgotten str
